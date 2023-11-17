@@ -7,3 +7,7 @@ https://medium.com/in-pursuit-of-artificial-intelligence/deep-learning-using-raw
 https://colab.research.google.com/drive/1sfmhDh4Y36TxiK_VJvP96kcjBunizUWe?hl=vi#scrollTo=af57_gLXYpXM
 # Supervised Classification Of induction Motors faults
 https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/03/e3sconf_icegc2022_00051.pdf
+
+# CNN-Autoencode for Raw waveform
+https://www.mdpi.com/1424-8220/21/24/8453
+
