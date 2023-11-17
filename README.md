@@ -11,3 +11,6 @@ https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/03/e3sconf_icegc2022_0
 # CNN-Autoencode for Raw waveform
 https://www.mdpi.com/1424-8220/21/24/8453
 
+# CNN1D waveform
+https://github.com/Anwarvic/CNN-for-Raw-Waveforms/tree/main
+
