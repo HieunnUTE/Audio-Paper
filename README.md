@@ -14,3 +14,5 @@ https://www.mdpi.com/1424-8220/21/24/8453
 # CNN1D waveform
 https://github.com/Anwarvic/CNN-for-Raw-Waveforms/tree/main
 
+# TỔNG HỢP CÁC BÀI BÁO SỬ DỤNG ANOMOLOUS SOUND
+https://arxiv.org/pdf/2102.07820.pdf
