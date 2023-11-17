@@ -16,3 +16,6 @@ https://github.com/Anwarvic/CNN-for-Raw-Waveforms/tree/main
 
 # TỔNG HỢP CÁC BÀI BÁO SỬ DỤNG ANOMOLOUS SOUND
 https://arxiv.org/pdf/2102.07820.pdf
+
+# Github LSTM autoencode
+https://github.com/lestercardoz11/fault-detection-for-predictive-maintenance-in-industry-4.0/blob/master/4.%20LSTM%2BAutoencoder/LSTM%20Autoencoder%20(IR%20-%200.007).ipynb
