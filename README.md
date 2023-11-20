@@ -19,3 +19,9 @@ https://arxiv.org/pdf/2102.07820.pdf
 
 # Github LSTM autoencode
 https://github.com/lestercardoz11/fault-detection-for-predictive-maintenance-in-industry-4.0/blob/master/4.%20LSTM%2BAutoencoder/LSTM%20Autoencoder%20(IR%20-%200.007).ipynb
+
+# Awesome anomaly
+https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/time-series_anomaly-detection/README.md
+
+# Kaggle H2O anomaly
+https://www.kaggle.com/code/imrandude/h2o-autoencoders-and-anomaly-detection-python/notebook
