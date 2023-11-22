@@ -25,3 +25,6 @@ https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/time-series_anomaly
 
 # Kaggle H2O anomaly
 https://www.kaggle.com/code/imrandude/h2o-autoencoders-and-anomaly-detection-python/notebook
+
+# MFCC - ConvLSTM
+https://www.mdpi.com/2227-7080/11/4/91
