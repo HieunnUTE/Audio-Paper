@@ -28,3 +28,7 @@ https://www.kaggle.com/code/imrandude/h2o-autoencoders-and-anomaly-detection-pyt
 
 # MFCC - ConvLSTM
 https://www.mdpi.com/2227-7080/11/4/91
+
+# Limited Data Rolling Bearing Fault Diagnosis With Few-Shot Learning
+  + Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793060
+  + Code: https://github.com/SNBQT/Limited-Data-Rolling-Bearing-Fault-Diagnosis-with-Few-shot-Learning
